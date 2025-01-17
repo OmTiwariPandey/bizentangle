@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Stock_Level,Reorder_Level
+P001,Wireless Mouse,50,10
+P002,USB Keyboard,30,5
+P003,27-inch Monitor,20,5
+P004,Webcam,15,5
+P005,HDMI Cable,100,20
+P006,Portable Charger,40,10
+P007,Noise-Cancelling Headphones,10,3
+P008,Laptop Stand,25,5
+P009,USB-C Adapter,60,15
+P010,Smartphone Holder,35,10
